@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/Jason-Young-AI/">
+  <img alt="Jason's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jason-Young-AI&count_private=true&show_icons=true&?theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Jason-Young-AI/">
+  <img alt="Jason's Top Langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Young-AI&layout=compact" />
+</a>
