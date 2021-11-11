@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/Jason-Young-AI/">
-  <img alt="Jason's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jason-Young-AI&count_private=true&show_icons=true&?theme=tokyonight" />
+  <img alt="Jason's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jason-Young-AI&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&?theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Jason-Young-AI/">
