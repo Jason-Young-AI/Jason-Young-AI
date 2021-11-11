@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/Jason-Young-AI/">
-  <img align="center" alt="Jason's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jason-Young-AI&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&?theme=graywhite" />
+  <img align="left" alt="Jason's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jason-Young-AI&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&?theme=graywhite" />
 </a>
 
 <a href="https://github.com/Jason-Young-AI/">
-  <img align="center" alt="Jason's Top Langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Young-AI&layout=compact&theme=graywhite" />
+  <img align="right" alt="Jason's Top Langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Young-AI&layout=compact&theme=graywhite" />
 </a>
