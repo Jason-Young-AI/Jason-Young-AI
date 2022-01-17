@@ -29,3 +29,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/Jason-Young-AI/">
   <img align="center" alt="Jason's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jason-Young-AI&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=swift" />
 </a>
+
+##### My Trophies
+
+<a href="https://github.com/Jason-Young-AI/">
+    <img align="center" alt="Jason's GitHub stats" src="https://github-profile-trophy.vercel.app/?username=Jason-Young-AI&theme=juicyfresh&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" />
+
+</a>
