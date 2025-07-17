@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## About Me 👋
 
-- 😄 Ph.D. Candidate at Institute of Computing Technology, Chinese Academy of Sciences
+- 😄 Assistant Research Professor at Institute of Computing Technology, Chinese Academy of Sciences
 - ⚡ Research interests: Evaluatology for AI
 - 🌱 I’m currently learning *Optimization*, *Computer Architecture* ...
 - 📫 E-Mail: AI.Jason.Young@outlook.com
