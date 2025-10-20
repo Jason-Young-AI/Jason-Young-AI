@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### My Trophies
 
 <a href="https://github.com/Jason-Young-AI/">
-    <img align="center" alt="Jason's GitHub stats" src="https://github-profile-trophy.vercel.app/?username=Jason-Young-AI&margin-w=15&no-bg=true&theme=dark_lover" />
+    <img align="center" alt="Jason's GitHub stats" src="https://github-profile-trophy.vercel.app/?username=Jason-Young-AI&margin-h=15&margin-w=15&no-bg=true&theme=dark_lover&column=3" />
 </a>
 
 <!--
