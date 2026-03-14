@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *Optimization*, *Computer Architecture* ...
 - 📫 E-Mail: AI.Jason.Young@outlook.com
 - 🖥️ Personal Website: https://www.jason-young.me
+- 🌟 Organization Page: [Yangs.ai](https://www.yangs.ai)
 
 <!--
 ##### Top Langs
@@ -49,5 +50,5 @@ Here are some ideas to get you started:
 -->
 
 ### Metrics
-<!--![Metrics](/github-metrics.svg)-->
+<!--![Metrics](/github-metrics.svg)--> 
 ![Metrics](https://raw.githubusercontent.com/Jason-Young-AI/Jason-Young-AI/refs/heads/main/github-metrics.svg)
