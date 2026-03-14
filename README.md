@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *Optimization*, *Computer Architecture* ...
 - 📫 E-Mail: AI.Jason.Young@outlook.com
 - 🖥️ Personal Website: https://www.jason-young.me
-- 🌟 Organization Page: [Yangs.ai](https://www.yangs.ai)
+- 🌟 Organization Page: [Yangs AI](https://www.yangs.ai)
 
 <!--
 ##### Top Langs
